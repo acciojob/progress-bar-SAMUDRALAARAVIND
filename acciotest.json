@@ -1,0 +1,4 @@
+{
+    "testRepo": "progress-bar-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
